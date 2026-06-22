@@ -30,7 +30,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
     {
       title: "Das Haus",
       text: "Eine ehemalige Volksschule, von der Pfadfindergilde zum geräumigen Gruppenhaus umgebaut.",
-      image: { src: `${IMG}/gallery-871691644c.webp`, alt: "Das Pfadfinderhaus Lilienhof — die umgebaute ehemalige Volksschule in Stang" },
+      image: { src: `${IMG}/gallery-adaa6e2596.webp`, alt: "Das Pfadfinderhaus Lilienhof mit dem charakteristischen Schriftzug und Gilden-Wappen unter blauem Himmel" },
     },
     {
       title: "54 Betten",
@@ -66,7 +66,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-6d806a4031.webp`, alt: "Blick über die bewaldeten Hügel der Buckligen Welt" },
+    image: { src: `${IMG}/gallery-9dbdf837d6.webp`, alt: "Blick vom Lilienhof über die weiten grünen Hügel der Buckligen Welt unter blauem Himmel" },
     line: "Ringsum die sanften Hügel der Buckligen Welt.",
   },
 
@@ -78,7 +78,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
       {
         title: "Drei Schlafräume",
         text: "Drei Schlafräume mit 24, 20 und 10 Betten — Stockbetten mit Matratzen, Bettzeug bringt ihr selbst mit.",
-        image: { src: `${IMG}/gallery-6cd35de590.webp`, alt: "Schlafraum mit Stockbett und Regalen im Lilienhof" },
+        image: { src: `${IMG}/gallery-9e68472106.webp`, alt: "Schlafraum mit Stockbett am Fenster und Blick ins Grüne im Lilienhof" },
       },
       {
         title: "Großer Speisesaal",
@@ -103,7 +103,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
       {
         title: "Außengelände",
         text: "Rund ums Haus liegen Sportplatz, Lagerfeuerarena und Zeltterrassen — viel Platz fürs Lagerleben im Freien.",
-        image: { src: `${IMG}/gallery-adaa6e2596.webp`, alt: "Außengelände am Lilienhof mit Pfadfinderzeichen an der Hauswand" },
+        image: { src: `${IMG}/gallery-871691644c.webp`, alt: "Eingangsbereich des Pfadfinderhauses Lilienhof mit Rasenfläche und Zuwegung" },
       },
     ],
   },
@@ -134,7 +134,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
     moreCount: 12,
     images: [
       { src: `${IMG}/gallery-79a52cc107.webp`, alt: "Langer Gang mit Wegweisern zu Schlafräumen und Speisesaal im Lilienhof" },
-      { src: `${IMG}/gallery-9e68472106.webp`, alt: "Schlafraum mit Stockbetten am Fenster im Lilienhof" },
+      { src: `${IMG}/gallery-6cd35de590.webp`, alt: "Schlafraum mit Stockbett und Regalwand im Lilienhof" },
       { src: `${IMG}/gallery-57e8c42516.webp`, alt: "Aufenthaltsecke mit Sitzbänken und Pfadfinder-Bild im Lilienhof" },
       { src: `${IMG}/gallery-03babcf653.webp`, alt: "Leiterzimmer mit Jahresplaner und Fensterblick im Lilienhof" },
     ],
