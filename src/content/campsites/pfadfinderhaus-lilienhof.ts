@@ -66,7 +66,7 @@ const pfadfinderhausLilienhof: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-9dbdf837d6.webp`, alt: "Blick vom Lilienhof über die weiten grünen Hügel der Buckligen Welt unter blauem Himmel" },
+    image: { src: `${IMG}/gallery-6d806a4031.webp`, alt: "Weiter Blick über die sanften bewaldeten Hügel der Buckligen Welt vom Lilienhof aus" },
     line: "Ringsum die sanften Hügel der Buckligen Welt.",
   },
 
